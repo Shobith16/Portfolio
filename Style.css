@@ -53,6 +53,10 @@
     border-radius: 5px;
     padding: .5%;
     background-color: black;
+    z-index: 10000;
+}
+.goback img{
+    z-index: 10000;
 }
 .intro{
     /* background-color: white; */
