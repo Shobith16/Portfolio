@@ -51,7 +51,7 @@
     color: white;
     font-weight: bold;
     border-radius: 5px;
-    padding: 1%;
+    padding: .5%;
     background-color: black;
 }
 .intro{
@@ -492,6 +492,13 @@ footer{
     }
     .coding-gif{
         display: none;
+    }
+    .goback{
+        padding: 3%;
+        border-radius:10px;
+    }
+    .goback img{
+        width: 30px;
     }
     .projects{
         position: relative;
