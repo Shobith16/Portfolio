@@ -14,6 +14,7 @@
     background-color:black;
     box-shadow: rgba(255, 255, 0, 0.4) 0px 5px, rgba(255, 255, 0, 0.3) 0px 10px, rgba(255, 255, 0, 0.2) 0px 15px, rgba(255, 255, 0, 0.1) 0px 20px, rgba(255, 255, 0, 0.05) 0px 25px;
     color: white;
+    padding: 1%;
 }
 .iddiv4{
     display: flex;
@@ -427,6 +428,7 @@ footer{
   
   .timeline-description {
     margin-bottom: 10px;
+    line-height: 110%;
   }
   
   /* Style the timeline items differently based on whether they are on the left or right side */
