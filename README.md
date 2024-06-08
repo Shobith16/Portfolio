@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a developer. It includes a home page, about me section, project showcase, and contact form.
+Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a developer. It includes a home page, about me section, project showcase.
 
 ## Features
 
