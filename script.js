@@ -1,5 +1,4 @@
-<script>
+
     function toggleMenu() {
-        document.getElementById("navLinks").classList.toggle("active");
+        document.getElementById("navLinks").classList.toggle("active")
     }
-</script>
